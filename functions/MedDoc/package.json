@@ -1,0 +1,9 @@
+{
+	"name": "meddoc",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "20eucs089@skcet.ac.in",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "1276000000007747",
+      "name": "MedDoc",
+      "domain": {
+        "id": "50010642558",
+        "name": "meddoc-60016559938.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "60016559938",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
