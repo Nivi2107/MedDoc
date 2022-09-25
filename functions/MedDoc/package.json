@@ -4,6 +4,7 @@
 	"main": "index.js",
 	"author": "20eucs089@skcet.ac.in",
 	"dependencies": {
+		"multer": "^1.4.5-lts.1",
 		"zcatalyst-sdk-node": "latest"
 	}
 }
